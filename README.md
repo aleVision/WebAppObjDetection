@@ -32,7 +32,7 @@ Check out the live web app here:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/ObjectDetectionYOLOv5.git
+    git clone https://github.com/aleVision/WebAppObjDetection.git
     cd ObjectDetectionYOLOv5
     ```
 
